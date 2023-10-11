@@ -32,7 +32,7 @@ i split the name colume into first and last name using the **Text to column** in
 ![](task_1num2.png)
 
 ### Task 1 C 
-i highlighted employees whose name started with "E" wih color yellow using a fprmular pasted in the conditional formatting tab.
+i highlighted employees whose name started with "E" with color yellow using a formular pasted in the conditional formatting tab.
 
 ![]task_1num3.png)
 
