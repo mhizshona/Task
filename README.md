@@ -1,7 +1,7 @@
 # Task
 
 ### Project Overview
-This is an excel practice task given to solidify my knowledge in what was taught. it contains 5 sheets with 21 & 701 rows od data respectively
+This is an excel practice task given to solidify my knowledge in what was taught. it contains 4 sheets with 21 & 701 rows od data respectively
 
 ### Data sources
 two datasets were used in these tasks
